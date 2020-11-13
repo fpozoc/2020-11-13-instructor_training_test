@@ -1,3 +1,5 @@
+THIS IS A GROUP TEST.
+
 Welcome to Software Carpentry
 
 We will use this Etherpad to share links and snippets of code, take notes, ask and answer questions, and whatever else comes to mind.
